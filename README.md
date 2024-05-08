@@ -1,0 +1,1 @@
+# dotnetcoreproj2
